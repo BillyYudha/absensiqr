@@ -127,7 +127,7 @@ public $views = [
     ];
 ```
 
-- Masih di file yang sama, ubah kedua baris berikut:
+- Masih di file yang sama, ubah :
 
 ```php
     public $requireActivation = 'Myth\Auth\Authentication\Activators\EmailActivator';
@@ -148,31 +148,10 @@ ubah value menjadi `null`:
 - Login menggunakan krendensial superadmin:
 
 ```
-username : superadmin
-password : 1234ikh123
 ```
 
 - Izinkan akses kamera.
 
-## Kesimpulan
 
-Dengan aplikasi web sistem absensi sekolah berbasis QR code ini, diharapkan proses absensi di sekolah menjadi lebih efisien dan terotomatisasi. Proyek ini dapat diadaptasi dan dikembangkan lebih lanjut sesuai dengan kebutuhan dan persyaratan sekolah Anda.
 
-Jangan lupa beri star ya...⭐
 
-## Contributing
-
-Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
-
-## Donasi
-
-[![Donate paypal](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://paypal.me/xannxett?country.x=ID&locale.x=en_US)
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## Lisensi
-
-[![GitHub license](https://img.shields.io/github/license/ikhsan3adi/absensi-sekolah-qr-code?style=for-the-badge)](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/raw/master/LICENSE)
-
-## Authors
-
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
