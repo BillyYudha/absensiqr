@@ -56,7 +56,7 @@ QRAttend tidak hanya membawa kemudahan teknologi QR code untuk manajemen kehadir
 
 **User Story**
 
-![image](https://github.com/BillyYudha/UTS-UBICOM/assets/113665144/bb2ac753-5120-4c06-817e-d381df89cc39)
+![rate](https://github.com/BillyYudha/absensiqr/assets/113665144/e561b3b7-8b80-4610-8773-e3182282f5ab)
 
 Metode dan Algoritma
 
@@ -65,7 +65,7 @@ sehingga memudahkan pengembang dalam melakukan pembuatan sistem dan membuat pera
 
 **Struktur Data**
 
-![solatyuk drawio](https://github.com/BillyYudha/UTS-UBICOM/assets/113665144/98a673f1-4af1-425e-82e2-3cad8e1d56bf)
+![struktur data absen qr](https://github.com/BillyYudha/absensiqr/assets/113665144/b3022b39-ccac-42e1-9667-03177db6b1d9)
 
 **Arsitektur Sistem**
 
